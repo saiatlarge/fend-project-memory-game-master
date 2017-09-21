@@ -24,7 +24,7 @@ after each game, it will ask gamers to enter their name to check the leader boar
 
 ## Screenshot
 
-![screenshot]
+![Project][screenshot]
 
 [screenshot](http://g.recordit.co/MmnmVh6jcq.gif)
 
