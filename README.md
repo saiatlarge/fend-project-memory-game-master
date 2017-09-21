@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-* [functionality](#functionality)
+* [Functionality](#Functionality)
+* [Screenshot](#Screenshot)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 
@@ -21,6 +22,11 @@ after each game, it will ask gamers to enter their name to check the leader boar
 
 2. shortcut shift+r to play again
 
+## Screenshot
+
+![screenshot]
+
+[screenshot](http://g.recordit.co/MmnmVh6jcq.gif)
 
 ## Instructions
 
